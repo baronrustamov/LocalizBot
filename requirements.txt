@@ -1,7 +1,7 @@
 google-cloud-translate==2.0.0
 google-cloud-vision==0.40.0
 numpy==1.17.4
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 telepot==12.7
 wget==3.2
 
